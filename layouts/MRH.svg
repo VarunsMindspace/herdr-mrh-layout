@@ -2,7 +2,7 @@
   <rect width="1200" height="700" fill="#0f1012"/>
   <!-- sidebar -->
   <rect x="0" y="0" width="272" height="700" fill="#16181b"/>
-  <rect x="0" y="0" width="24" height="24" x="14" y="11" rx="6" fill="#3b82f6"/>
+  <rect x="14" y="11" width="24" height="24" rx="6" fill="#3b82f6"/>
   <text x="26" y="28" font-size="13" font-weight="600" fill="#0b1220" text-anchor="middle">M</text>
   <text x="46" y="28" font-size="13" font-weight="600" fill="#e8e9eb">MRH</text>
   <circle cx="224" cy="23" r="7" fill="none" stroke="#7b7f86" stroke-width="1.4"/>
